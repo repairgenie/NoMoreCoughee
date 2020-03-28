@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Coronavirus Filter",
   "version": "1.1.2",
-  "description": "Remove Coronavirus from the Internet.",
+  "description": "Remove Coronavirus from the Internet. Based on Trump Filter by  RobSpectre",
   "page_action" :
   {
     "default_icon" : "images/icon-19x19.png",
