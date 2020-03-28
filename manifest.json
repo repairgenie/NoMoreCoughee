@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Trump Filter",
+  "name": "Coronavirus Filter",
   "version": "1.1.2",
-  "description": "Remove Donald Trump from the Internet.",
+  "description": "Remove Coronavirus from the Internet.",
   "page_action" :
   {
     "default_icon" : "images/icon-19x19.png",
-    "default_title" : "Warning: Trump is on this page!"
+    "default_title" : "Warning: Coronavirus is on this page!"
   },
   "permissions": [
     "storage"
